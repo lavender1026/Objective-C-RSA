@@ -1,3 +1,14 @@
+1-----引入RSA.h .m
+2-----public_key  ='-----BEGIN PUBLIC KEY-----MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCG5ux57ZgALs3e7VvwILDMKrUMorAkCptKehhO
+ayM6CdmtDmwDMz8Dv/yTKJGA1iI6cIcuUb5SSK8RWy1s0MLTjQPvBOJWDsucxjrbQ3u1GYpDg7Im
+BVP74Crx+rfkisITcbUigPWXfEFq/Gtd4txj5b+GAbdDId1GV6YJi6JAEQIDAQAB-----END PUBLIC KEY-----'
+不用加/n
+3-----have fun
+
+
+
+
+
 # Objective-C-RSA
 Doing RSA encryption with Objective-C iOS
 
